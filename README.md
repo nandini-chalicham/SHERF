@@ -12,9 +12,6 @@ This repository will contain the official implementation of _SHERF: Generalizabl
 
 <div align="left">
 
-## :mega: Updates
-[08/2023] Training and inference codes for RenderPeople, THuman, HuMMan and ZJU-Mocap are released.
-
 ## :desktop_computer: Requirements
 <!-- --- -->
 NVIDIA GPUs are required for this project.
