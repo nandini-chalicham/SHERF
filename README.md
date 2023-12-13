@@ -34,7 +34,7 @@ Please download the rendered multi-view images of RenderPeople dataset created b
 
 #### THuman Dataset
 
-Please follow instructions of  MPS-NeRF (https://github.com/gaoxiangjun/MPS-NeRF) to download the THuman dataset (http://www.liuyebin.com/deephuman/deephuman.html) dataset. After that, please download our estimated [SMPL Neutral parameters](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/ESgPK9M9zNxPr3dqEAoao4gBsomBTbAakC4c6eCpNxGGZA?e=i9wZni).
+Please follow instructions of  MPS-NeRF (https://github.com/gaoxiangjun/MPS-NeRF) to download the THuman dataset (http://www.liuyebin.com/deephuman/deephuman.html) dataset. After that, please download the estimated [SMPL Neutral parameters](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/ESgPK9M9zNxPr3dqEAoao4gBsomBTbAakC4c6eCpNxGGZA?e=i9wZni).
 
 #### HuMMan Dataset
 
@@ -43,8 +43,6 @@ Please follow the instructions of (https://caizhongang.github.io/projects/HuMMan
 #### ZJU-Mocap dataset
 
 Please follow instructions of [Neural Body](https://github.com/zju3dv/neuralbody) to download the ZJU-Mocap dataset.
-
-Tips: If you hope to learn how to render multi-view images, You may refer to (https://github.com/openxrlab/xrfeitoria), a rendering toolbox for generating synthetic data photorealistic with ground-truth annotations.
 
 ## :running_woman: Inference
 
