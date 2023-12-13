@@ -18,7 +18,6 @@ This repository will contain the official implementation of _SHERF: Generalizabl
 ## :desktop_computer: Requirements
 <!-- --- -->
 NVIDIA GPUs are required for this project.
-We recommend using anaconda to manage the python environments.
 
 ```bash
     conda create --name sherf python=3.8
@@ -34,21 +33,21 @@ We recommend using anaconda to manage the python environments.
 <!-- --- -->
 
 #### RenderPeople Dataset
-Please download our rendered multi-view images of RenderPeople dataset from [OneDrive](https://mycuhk-my.sharepoint.com/:f:/g/personal/1155098117_link_cuhk_edu_hk/ElL9IDDOaa5Hl785gvbqyEEB8ubdobyuMKqoDY3J85XStw?e=o2BUOt).
+Please download the rendered multi-view images of RenderPeople dataset created by original authors from (https://mycuhk-my.sharepoint.com/:f:/g/personal/1155098117_link_cuhk_edu_hk/ElL9IDDOaa5Hl785gvbqyEEB8ubdobyuMKqoDY3J85XStw?e=o2BUOt).
 
 #### THuman Dataset
 
-Please follow instructions of [MPS-NeRF](https://github.com/gaoxiangjun/MPS-NeRF) to download the [THuman](http://www.liuyebin.com/deephuman/deephuman.html) dataset. After that, please download our estimated [SMPL Neutral parameters](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/ESgPK9M9zNxPr3dqEAoao4gBsomBTbAakC4c6eCpNxGGZA?e=i9wZni).
+Please follow instructions of  MPS-NeRF (https://github.com/gaoxiangjun/MPS-NeRF) to download the THuman dataset (http://www.liuyebin.com/deephuman/deephuman.html) dataset. After that, please download our estimated [SMPL Neutral parameters](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/ESgPK9M9zNxPr3dqEAoao4gBsomBTbAakC4c6eCpNxGGZA?e=i9wZni).
 
 #### HuMMan Dataset
 
-Please follow instructions of [HuMMan-Recon](https://caizhongang.github.io/projects/HuMMan/) to download the HuMMan dataset.
+Please follow the instructions of (https://caizhongang.github.io/projects/HuMMan/) to download the HuMMan dataset.
 
 #### ZJU-Mocap dataset
 
 Please follow instructions of [Neural Body](https://github.com/zju3dv/neuralbody) to download the ZJU-Mocap dataset.
 
-Tips: If you hope to learn how to render multi-view images, You may refer to [XRFeitoria](https://github.com/openxrlab/xrfeitoria), a rendering toolbox for generating synthetic data photorealistic with ground-truth annotations.
+Tips: If you hope to learn how to render multi-view images, You may refer to (https://github.com/openxrlab/xrfeitoria), a rendering toolbox for generating synthetic data photorealistic with ground-truth annotations.
 
 ## :running_woman: Inference
 
