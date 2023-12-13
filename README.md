@@ -26,7 +26,7 @@ NVIDIA GPUs are required for this project.
 ```
 
 
-## Set up Dataset
+## Datasets
 <!-- --- -->
 
 #### RenderPeople Dataset
@@ -116,8 +116,11 @@ bash train_zju_mocap_512x512.sh
 
 If you hope to evaluate the trained checkpoints, please add --test_flag True --resume CHECKPOINT.
 
-## :love_you_gesture: Citation
+## Citation
 <!-- --- -->
+
+This is an inspired project with slight modifications from the original authors Shoukang Hu*1Fangzhou Hong*1Liang Pan1Haiyi Mei2Lei Yang2Ziwei Liu✉1, 1S-Lab, Nanyang Technological University 2Sensetime Research
+*Equal Contribution✉Corresponding Author publish in ICCV 2023
 
 If you find the codes of this work or the associated ReSynth dataset helpful to your research, please consider citing:
 
@@ -130,11 +133,11 @@ If you find the codes of this work or the associated ReSynth dataset helpful to 
 }
 ```
 
-## :newspaper_roll: License
+## License
 
 Distributed under the S-Lab License. See `LICENSE` for more information.
 
-## :raised_hands: Acknowledgements
+## Acknowledgements
 This study is supported by the Ministry of Education, Singapore, under its MOE AcRF Tier 2 (MOE-T2EP20221-0012), NTU NAP, and under the RIE2020 Industry Alignment Fund – Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contribution from the industry partner(s).
 
 This project is built on source codes shared by [EG3D](https://github.com/NVlabs/eg3d), [MPS-NeRF](https://github.com/gaoxiangjun/MPS-NeRF) and [Neural Body](https://github.com/zju3dv/neuralbody).
