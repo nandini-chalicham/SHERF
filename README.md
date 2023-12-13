@@ -85,7 +85,7 @@ bash eval_HuMMan_640x360.sh
 bash eval_zju_mocap_512x512.sh
 ```
 
-## :train: Training
+## Training
 <!-- --- -->
 
 ```bash
