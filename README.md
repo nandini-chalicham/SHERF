@@ -50,7 +50,7 @@ Please follow instructions of [Neural Body](https://github.com/zju3dv/neuralbody
 
 The pretrained models and SMPL model are needed for inference.
 
-The pretrained models are put in [OneDrive](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/EU3RxpLuKmZImkdJbG8Y12EBZ9RxIfQiEx7ctt5obXUjzw?e=gXJbIQ) and [Baidu Pan (pin:gu1q)](https://pan.baidu.com/s/1yqZd0L1zAoc-YUY4YCD4dQ) for downloading.
+The pretrained models are put in (https://mycuhk-my.sharepoint.com/:u:/g/personal/1155098117_link_cuhk_edu_hk/EU3RxpLuKmZImkdJbG8Y12EBZ9RxIfQiEx7ctt5obXUjzw?e=gXJbIQ) and [Baidu Pan (pin:gu1q)](https://pan.baidu.com/s/1yqZd0L1zAoc-YUY4YCD4dQ) for downloading.
 
 Register and download SMPL models [here](https://smpl.is.tue.mpg.de/). Put the downloaded models in the folder smpl_models. Only the neutral one is needed. The folder structure should look like
 
