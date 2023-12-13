@@ -12,7 +12,7 @@ This repository will contain the official implementation of _SHERF: Generalizabl
 
 <div align="left">
 
-## :desktop_computer: Requirements
+## Requirements
 <!-- --- -->
 NVIDIA GPUs are required for this project.
 
@@ -44,7 +44,7 @@ Please follow the instructions of (https://caizhongang.github.io/projects/HuMMan
 
 Please follow instructions of [Neural Body](https://github.com/zju3dv/neuralbody) to download the ZJU-Mocap dataset.
 
-## :running_woman: Inference
+## Inference
 
 ### Download Models
 
